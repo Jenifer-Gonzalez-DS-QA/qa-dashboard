@@ -75,7 +75,7 @@ qa-dashboard/
 
 bash
 # 1. Clonar el repositorio
-git clone https://github.com/TU-USUARIO/qa-dashboard.git
+git clone https://github.com/Jenifer-Gonzalez-DS-QA/qa-dashboard.git
 cd qa-dashboard
 
 # 2. Crear entorno virtual
