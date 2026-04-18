@@ -31,9 +31,7 @@ Combina automatización de pruebas de API con análisis de datos para visualizar
 
 Todo con un solo comando:
 
-bash
 python main.py
-
 
 -----
 
@@ -73,7 +71,6 @@ qa-dashboard/
 
 ## ⚙️ Instalación
 
-bash
 # 1. Clonar el repositorio
 git clone https://github.com/Jenifer-Gonzalez-DS-QA/qa-dashboard.git
 cd qa-dashboard
@@ -96,15 +93,12 @@ pip install -r requirements.txt
 
 ### Flujo completo (recomendado)
 
-bash
 python main.py
-
 
 Esto ejecuta las 3 etapas en secuencia y abre el dashboard.
 
 ### Por etapas (para depuración o aprendizaje)
 
-bash
 # 1. Solo ejecutar pruebas y guardar CSV
 python test_runner.py
 
