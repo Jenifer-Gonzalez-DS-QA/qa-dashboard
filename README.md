@@ -50,7 +50,7 @@ python main.py
 
 ## 📁 Estructura del Proyecto
 
-
+...
 qa-dashboard/
 │
 ├── test_runner.py      # Ejecuta las 22 pruebas y guarda resultados en CSV
@@ -67,7 +67,7 @@ qa-dashboard/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-
+...
 
 -----
 
