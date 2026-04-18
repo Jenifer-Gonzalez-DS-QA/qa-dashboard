@@ -48,24 +48,24 @@ python main.py
 
 ## 📁 Estructura del Proyecto
 
-´´´
+
 qa-dashboard/
 │
-├── test_runner.py      # Ejecuta las 22 pruebas y guarda resultados en CSV
-├── analyzer.py         # Carga el CSV y calcula métricas con pandas
-├── dashboard.py        # Genera el dashboard HTML interactivo con plotly
-├── main.py             # Punto de entrada — orquesta el flujo completo
-│
-├── data/
-│   └── test_results.csv    # Resultados acumulados (generado automáticamente)
-│
-├── reports/
-│   └── dashboard.html      # Dashboard generado (abrir en navegador)
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
-´´´
+|-- test_runner.py      # Ejecuta las 22 pruebas y guarda resultados en CSV
+|-- analyzer.py         # Carga el CSV y calcula métricas con pandas
+|-- dashboard.py        # Genera el dashboard HTML interactivo con plotly
+|-- main.py             # Punto de entrada — orquesta el flujo completo
+|
+|-- data/
+│   |-- test_results.csv    # Resultados acumulados (generado automáticamente)
+|
+|-- reports/
+|   |-- dashboard.html      # Dashboard generado (abrir en navegador)
+|
+|-- requirements.txt
+|-- .gitignore
+|-- README.md
+
 
 -----
 
