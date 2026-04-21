@@ -47,8 +47,7 @@ python main.py
 -----
 
 ## 📁 Estructura del Proyecto
-
-
+```
 qa-dashboard/
 │
 |-- test_runner.py      # Ejecuta las 22 pruebas y guarda resultados en CSV
@@ -65,8 +64,7 @@ qa-dashboard/
 |-- requirements.txt
 |-- .gitignore
 |-- README.md
-
-
+```
 -----
 
 ## ⚙️ Instalación
@@ -122,8 +120,7 @@ reports/dashboard.html
 -----
 
 ## 🔄 Flujo de Datos
-
-
+```
 python main.py
       │
       ▼
@@ -150,8 +147,7 @@ dashboard.py  (plotly)
       │
       ▼
 reports/dashboard.html → Abrir en navegador 🌐
-
-
+```
 -----
 
 ## 📊 Cómo leer el Dashboard
